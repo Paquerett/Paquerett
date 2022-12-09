@@ -1,5 +1,4 @@
-![Cover](CV.jpg)
-<img src="CV.jpg" alt="cv" style="width:200px;"/>
+<img src="CV.jpg" alt="cv" style="width:400px;"/>
 
 <!--
 **Paquerett/Paquerett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
