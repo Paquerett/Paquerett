@@ -1,5 +1,3 @@
-### Hello 👋
-
 ![Cover](CV.jpg)
 
 <!--
