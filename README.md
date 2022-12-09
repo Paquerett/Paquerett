@@ -1,4 +1,6 @@
-<img src="CV.jpg" alt="cv" style="width:400px;"/>
+
+![Cover](CVLM.jpg)
+
 
 <!--
 **Paquerett/Paquerett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
