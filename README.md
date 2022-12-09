@@ -1,3 +1,8 @@
+<ul>
+  <li><a href="https://www.linkedin.com/in/margueritechoyer/">Linkedin</a></li>
+  <li><a href="mailto:margueritechoyer@gmail.com">Email</a></li>
+  <li><a href="https://dribbble.com/MargueriteC">Dribbble</a></li>
+</ul>
 
 ![Cover](CVLM.jpg)
 
