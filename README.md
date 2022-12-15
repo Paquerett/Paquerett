@@ -1,8 +1,8 @@
-<ul>
-  <li><a href="https://www.linkedin.com/in/margueritechoyer/">Linkedin</a></li>
-  <li><a href="mailto:margueritechoyer@gmail.com">Email</a></li>
-  <li><a href="https://dribbble.com/MargueriteC">Dribbble</a></li>
-</ul>
+<p align="center">
+<a href="https://www.linkedin.com/in/margueritechoyer/"><img src="linkedin.png" alt="linkedin" style="width: 100px;"></a>
+<a href="mailto:margueritechoyer@gmail.com"><img src="mail.png" alt="email" style="width: 100px;"></a>
+<a href="https://dribbble.com/MargueriteC"><img src="dribbble.png" alt="dribbble" style="width: 100px;"></a>
+</p>
 
 ![Cover](CVLM.jpg)
 
