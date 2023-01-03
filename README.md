@@ -5,7 +5,6 @@
   <a href="https://dribbble.com/MargueriteC"><img src="dribbble.png" alt="dribbble" style="height: 100px;"></a>
 </p>
 
-
 ![Cover](CVLM.jpg)
 
 
