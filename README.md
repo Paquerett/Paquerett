@@ -8,8 +8,3 @@
 
 ![Cover](CVLM.jpeg)
 
-<style>
-  a {
-    margin-right: 80px;
-  }
-</style>
